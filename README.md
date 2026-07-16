@@ -2,11 +2,9 @@ Manufacturing Analysis Dashboard (Tableau)
 
 A Tableau dashboard built to track where manufacturing wastage comes from — broken down by machine, employee, department, and delivery timeline — so quality issues can be spotted and acted on quickly rather than discovered at month-end.
 
-📸https://github.com/KiranSutar-analyst/Manufacturing-Analysis-Dashboard-Tableau-/blob/main/screenshots/Dashboard_preview.png
+![Manufacturing Analysis Dashboard](screenshots/Dashboard_preview.png)
 
-
-
-Note: The underlying dataset is not shared publicly due to confidentiality; this repo showcases the dashboard design and analytical approach.
+*Note: The underlying dataset is not shared publicly due to confidentiality; this repo showcases the dashboard design and analytical approach.*
 
 📌 What This Dashboard Answers
 
@@ -64,5 +62,4 @@ Back quality-control investment decisions with numbers instead of instinct
 
 
 
-Part of my data analytics portfolio — happy to hear feedback or questions.
-ContentREADME.md71 linesmd
+*Part of my data analytics portfolio — happy to hear feedback or questions.*
